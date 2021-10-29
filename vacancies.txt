@@ -1,0 +1,41 @@
+                                                                    link                                                                   name min salary max salary currency           site
+0   https://hh.ru/vacancy/48708812?from=vacancy_search_list&query=Phyton                                               Ведущий программист Perl   [230000]     [None]   [руб.]  https://hh.ru
+1   https://hh.ru/vacancy/47717493?from=vacancy_search_list&query=Phyton                                                     Программист Python     [None]   [150000]   [руб.]  https://hh.ru
+2   https://hh.ru/vacancy/48791649?from=vacancy_search_list&query=Phyton                                   Биостатистик / Медицинский статистик          -          -        -  https://hh.ru
+3   https://hh.ru/vacancy/49229092?from=vacancy_search_list&query=Phyton                                          Head of marketing Growth team   [200000]     [None]   [руб.]  https://hh.ru
+4   https://hh.ru/vacancy/48627185?from=vacancy_search_list&query=Phyton                        Frontend программист разработчик (дистанционно)    [75000]    [75000]   [руб.]  https://hh.ru
+5   https://hh.ru/vacancy/44173488?from=vacancy_search_list&query=Phyton                                             Специалист по тестированию          -          -        -  https://hh.ru
+6   https://hh.ru/vacancy/49067090?from=vacancy_search_list&query=Phyton                   Аналітик роздрібних кредитних ризиків (SQL-аналітик)          -          -        -  https://hh.ru
+7   https://hh.ru/vacancy/49008732?from=vacancy_search_list&query=Phyton                            Начинающий консультант-разработчик (стажер)          -          -        -  https://hh.ru
+8   https://hh.ru/vacancy/48624553?from=vacancy_search_list&query=Phyton                               Аналитик-исследователь финансовых рынков          -          -        -  https://hh.ru
+9   https://hh.ru/vacancy/48604209?from=vacancy_search_list&query=Phyton              Planning & Coordination Specialist (REMOTE WORK POSSIBLE)          -          -        -  https://hh.ru
+10  https://hh.ru/vacancy/48604207?from=vacancy_search_list&query=Phyton              Planning & Coordination Specialist (REMOTE WORK POSSIBLE)          -          -        -  https://hh.ru
+11  https://hh.ru/vacancy/48604210?from=vacancy_search_list&query=Phyton              Planning & Coordination Specialist (REMOTE WORK POSSIBLE)          -          -        -  https://hh.ru
+12  https://hh.ru/vacancy/49187517?from=vacancy_search_list&query=Phyton                                    Lead IT Systems & Services Engineer          -          -        -  https://hh.ru
+13  https://hh.ru/vacancy/48954912?from=vacancy_search_list&query=Phyton                                                    Аналитик-маркетолог          -          -        -  https://hh.ru
+14  https://hh.ru/vacancy/48604208?from=vacancy_search_list&query=Phyton              Planning & Coordination Specialist (REMOTE WORK POSSIBLE)          -          -        -  https://hh.ru
+15  https://hh.ru/vacancy/47931467?from=vacancy_search_list&query=Phyton                    Junior Auto QA / Младший автотестировщик (Selenium)    [45000]    [65000]   [руб.]  https://hh.ru
+16  https://hh.ru/vacancy/49197192?from=vacancy_search_list&query=Phyton                                                     Frontend developer          -          -        -  https://hh.ru
+17  https://hh.ru/vacancy/49223251?from=vacancy_search_list&query=Phyton                             Специалист по внедрению и настройке amoCRM          -          -        -  https://hh.ru
+18  https://hh.ru/vacancy/43504693?from=vacancy_search_list&query=Phyton                                               Разработчик SQL / Python          -          -        -  https://hh.ru
+19  https://hh.ru/vacancy/49226875?from=vacancy_search_list&query=Phyton                                  QA инженер (нагрузочное тестирование)          -          -        -  https://hh.ru
+20  https://hh.ru/vacancy/47343657?from=vacancy_search_list&query=Phyton                         Преподаватель учебного центра по Java и Phyton          -          -        -  https://hh.ru
+21  https://hh.ru/vacancy/45356063?from=vacancy_search_list&query=Phyton                                                     Lead iOS developer          -          -        -  https://hh.ru
+22  https://hh.ru/vacancy/49045163?from=vacancy_search_list&query=Phyton                  Руководитель направления аналитики розничного бизнеса          -          -        -  https://hh.ru
+23  https://hh.ru/vacancy/46247390?from=vacancy_search_list&query=Phyton                                             Менеджер проекта в Авто.ру          -          -        -  https://hh.ru
+24  https://hh.ru/vacancy/48926223?from=vacancy_search_list&query=Phyton                                                          Senior DevOps     [7000]     [9000]    [USD]  https://hh.ru
+25  https://hh.ru/vacancy/48926221?from=vacancy_search_list&query=Phyton                                                          Senior DevOps     [7000]     [9000]    [USD]  https://hh.ru
+26  https://hh.ru/vacancy/48926222?from=vacancy_search_list&query=Phyton                                                          Senior DevOps     [7000]     [9000]    [USD]  https://hh.ru
+27  https://hh.ru/vacancy/48979184?from=vacancy_search_list&query=Phyton                                     Руководитель направления аналитики          -          -        -  https://hh.ru
+28  https://hh.ru/vacancy/47474117?from=vacancy_search_list&query=Phyton                        Руководитель проектов (Корпоративная аналитика)          -          -        -  https://hh.ru
+29  https://hh.ru/vacancy/38408586?from=vacancy_search_list&query=Phyton                                                    DWH: Разработчик BI          -          -        -  https://hh.ru
+30  https://hh.ru/vacancy/48942550?from=vacancy_search_list&query=Phyton     Ведущий аналитик (отдел развития и сопровождения digital проектов)          -          -        -  https://hh.ru
+31  https://hh.ru/vacancy/48173170?from=vacancy_search_list&query=Phyton  Team Lead аналитики (отдел развития и сопровождения digital проектов)          -          -        -  https://hh.ru
+32  https://hh.ru/vacancy/42988910?from=vacancy_search_list&query=Phyton                                                   Технический писатель   [100000]   [140000]   [руб.]  https://hh.ru
+33  https://hh.ru/vacancy/41454700?from=vacancy_search_list&query=Phyton        Solution Architect (Microsoft Identity Manager & Microsoft 365)          -          -        -  https://hh.ru
+34  https://hh.ru/vacancy/41454761?from=vacancy_search_list&query=Phyton        Solution Architect (Microsoft Identity Manager & Microsoft 365)          -          -        -  https://hh.ru
+35  https://hh.ru/vacancy/48849093?from=vacancy_search_list&query=Phyton             Интерн/Консультант в группу Управления финансовыми рисками          -          -        -  https://hh.ru
+36  https://hh.ru/vacancy/48830932?from=vacancy_search_list&query=Phyton                      Аналитик отдела риск-моделирования (Data Analyst)          -          -        -  https://hh.ru
+37  https://hh.ru/vacancy/48806496?from=vacancy_search_list&query=Phyton                    Разработчик в направление "Развитие и внедрение ИТ"   [600000]     [None]    [KZT]  https://hh.ru
+38  https://hh.ru/vacancy/48813314?from=vacancy_search_list&query=Phyton                     Backend программист / Ведущий разработчик (Phyton)          -          -        -  https://hh.ru
+39  https://hh.ru/vacancy/46941914?from=vacancy_search_list&query=Phyton                                   Auto QA / Автотестировщик (Selenium)    [60000]   [150000]   [руб.]  https://hh.ru
