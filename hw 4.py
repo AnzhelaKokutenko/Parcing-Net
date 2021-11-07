@@ -5,7 +5,7 @@ from pymongo import MongoClient
 
 client = MongoClient('localhost', 27017)
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30/r4sT761g-47'}
-response = requests.get('https://lenta.ru/')
+response = requests.get('https://lenta.ru/', headers=headers)
 dom = html.fromstring(response.text)
 news = dom.xpath("//div[@class = 'span4']/div[@class = 'item' or @class = 'first-item']")
 
