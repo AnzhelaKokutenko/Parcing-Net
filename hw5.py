@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, ElementNotInteractableException, ElementClickInterceptedException
 from pymongo import MongoClient
-import time
+
 
 client = MongoClient('localhost', 27017)
 chrome_options = Options()
