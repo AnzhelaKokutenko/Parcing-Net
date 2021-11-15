@@ -65,6 +65,7 @@ class JobparserPipeline:
                 item['min_salary'] = None
                 item['max_salary'] = None
             del item['salary']
+            item['site'] = 'https://superjob.ru'
 
         collection = self.mongo_base[spider.name]
         collection.insert_one(item)
