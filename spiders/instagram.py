@@ -26,7 +26,7 @@ class InstagramSpider(scrapy.Spider):
         yield scrapy.FormRequest(
             self.inst_login_link,
             method='POST',
-            callback='self.authorization',
+            callback=self.authorization,
             formdata={'username': self.insta_login, 'enc_password': self.insta_pwd},
             headers={'X-CSRFToken': csrf_token})
 
@@ -57,7 +57,7 @@ class InstagramSpider(scrapy.Spider):
         following_url = f'{self.graphql_url}query_hash={self.following_hash }&{urlencode(variables)}'
         yield response.follow(
             following_url,
-            callback=self.followings_parse,
+            callback=self.following_parse,
             cb_kwargs={
                 'username': username,
                 'user_id': user_id,
